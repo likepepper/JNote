@@ -7,6 +7,8 @@
 
 * 博文
   * [ityouknow](http://www.ityouknow.com/)
+  * [ruanyifeng](https://www.ruanyifeng.com/)
+  * [zabbix](https://www.zabbix.com/documentation/current/en)
 
 * 链接
   * [ruoyi](https://doc.ruoyi.vip/)
@@ -18,4 +20,6 @@
   * [daisyui](https://daisyui.com/)
   * [poi-tl](https://deepoove.com/poi-tl/)
   * [elementui](https://element.eleme.cn/)
+  * [Spring AI Alibaba](https://java2ai.com/docs/)
+  * [langchain4j](https://docs.langchain4j.dev/intro/)
 
