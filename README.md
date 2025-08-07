@@ -1,8 +1,8 @@
-# JNote - Java开发者的学习笔记
+# JNote - Java 开发者的学习笔记
 
 ## 👋 关于我
 
-> 一名热爱技术、不断学习的Java开发工程师
+> 一名热爱技术、不断学习的 Java 开发工程师
 
 ## 🔧 技术栈
 
@@ -16,7 +16,7 @@
 
 这个博客主要记录了我在工作和学习过程中的一些心得体会和技术积累，主要包括：
 
-- Java核心知识和进阶技巧
+- Java 核心知识和进阶技巧
 - 主流框架的使用心得
 - 中间件的实践经验
 - 数据库优化和运维
@@ -34,7 +34,7 @@
 如果你有任何问题或建议，欢迎与我交流：
 
 - 📧 Email：[fuddy_wei@163.com]
-- 💬 微信：[https://github.com/likepepper?tab=repositories]
-- 🌐 GitHub：[your-github]
+- 💬 微信：[zijing9503]
+- 🌐 GitHub：[https://github.com/likepepper?tab=repositories]
 
 > 学如逆水行舟，不进则退
