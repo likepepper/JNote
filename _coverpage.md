@@ -10,4 +10,4 @@
 - Java Study&Work Note
 - 基于 docsify + github pages 部署
 
-[Get Started](#README.md)
+[Get Started](README.md)
