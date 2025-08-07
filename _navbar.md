@@ -1,12 +1,21 @@
-* 图文演示
-  * [win环境搭建](https://blog.csdn.net/Mark_md/article/details/120132945?spm=1001.2014.3001.5501)
-  * [视频]()
-  * [ESP-IDF](https://blog.csdn.net/mark_md/category_10794878.html)
-  * [Arduino](https://blog.csdn.net/mark_md/category_11477137.html)
+* 工具
+  * [chat18](https://chat18.aichatosgg.com/)
+  * [natapp](https://natapp.cn/member/dashborad)
+  * [excalidraw](https://excalidraw.com/)
+  * [idea.hacks](https://idea.hacks.tools/#license-iframe)
+  * [51jianli](https://www.51jianli-moban.com/)
 
-* 源码&资料
-  * [Github](https://github.com/ZhiliangMa/easyio-lib-for-esp32)
-  * [LVGL](https://github.com/ZhiliangMa/lv_port_esp32)
-  * [原理图](https://github.com/ZhiliangMa/easyio-lib-for-esp32/blob/master/Schematic_ESP32-IOT-KIT_2021-11-16.pdf)
-  * [店铺]()
+* 博文
+  * [ityouknow](http://www.ityouknow.com/)
+
+* 链接
+  * [ruoyi](https://doc.ruoyi.vip/)
+  * [snailjob](https://snailjob.opensnail.com/)
+  * [anyline](http://doc.anyline.org/)
+  * [erupt](https://www.erupt.xyz/#!/doc)
+  * [xiaonuo](https://xiaonuo.vip/doc)
+  * [uviewui](https://uviewui.com/)
+  * [daisyui](https://daisyui.com/)
+  * [poi-tl](https://deepoove.com/poi-tl/)
+  * [elementui](https://element.eleme.cn/)
 
